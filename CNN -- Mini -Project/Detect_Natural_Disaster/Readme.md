@@ -8,9 +8,13 @@ Steps involved
 
 Using selenium collected various images for earthquake ,fire ,flood  and label it accordingly
 
+[Notebook](https://github.com/utkarshut/Deep-Learning--MLP-RNN-LSTM-Projects/blob/master/CNN%20--%20Mini%20-Project/Detect_Natural_Disaster/download_images_from_google_using_selenium.ipynb)
+
 ### Image Augmentation
 
 Performed Image Augmentation to generate different augmented images
+
+[Notebook](https://github.com/utkarshut/Deep-Learning--MLP-RNN-LSTM-Projects/blob/master/CNN%20--%20Mini%20-Project/Detect_Natural_Disaster/Image_augmentation.ipynb)
 
 ### Model Training
 
