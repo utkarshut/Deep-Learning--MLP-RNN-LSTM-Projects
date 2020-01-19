@@ -9,6 +9,12 @@ Please read the note book for information about the data and implementation of m
 **Single feature**
 [Notebook](https://github.com/utkarshut/Deep-Learning--MLP-RNN-LSTM-Projects/blob/master/RNN%20--%20Mini-Project/TCS%20Stock%20Prediction/TCS_stock_prediction.ipynb)
 
+**output**
+<img src="./output_images/single_feature.png" alt="Final Output"/>
+
 
 **Multiple feature**
 [Notebook](https://github.com/utkarshut/Deep-Learning--MLP-RNN-LSTM-Projects/blob/master/RNN%20--%20Mini-Project/TCS%20Stock%20Prediction/TCS_stock_prediction-multiple%20feature.ipynb)
+
+**output**
+<img src="./output_images/multiple_feature.png" alt="Final Output"/>
