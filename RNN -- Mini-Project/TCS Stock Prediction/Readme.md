@@ -7,6 +7,7 @@ We have done it using Single and multiple features
 Please read the note book for information about the data and implementation of model used.
 
 **Single feature**
+Trained on Open Price
 [Notebook](https://github.com/utkarshut/Deep-Learning--MLP-RNN-LSTM-Projects/blob/master/RNN%20--%20Mini-Project/TCS%20Stock%20Prediction/TCS_stock_prediction.ipynb)
 
 **output**
@@ -14,6 +15,7 @@ Please read the note book for information about the data and implementation of m
 
 
 **Multiple feature**
+Trained on Open and Close price
 [Notebook](https://github.com/utkarshut/Deep-Learning--MLP-RNN-LSTM-Projects/blob/master/RNN%20--%20Mini-Project/TCS%20Stock%20Prediction/TCS_stock_prediction-multiple%20feature.ipynb)
 
 **output**
